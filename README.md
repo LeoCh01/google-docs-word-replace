@@ -1,4 +1,4 @@
-# Google Docs API PDF Updater
+# Google Docs API Text Updater
 
 This project provides a Python utility to update text in a Google Docs document and download it as a PDF. It uses the Google Docs and Google Drive APIs to perform operations such as text replacement, document copying, and PDF export.
 
